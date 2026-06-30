@@ -155,6 +155,3 @@ pip install python-dotenv
 - [Twilio](https://twilio.com)
 - Python `smtplib` for email
 
----
-
-> Built by [Kashvi Agrawal](https://github.com/kashviagrawal04)
